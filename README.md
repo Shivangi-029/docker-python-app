@@ -51,7 +51,7 @@ docker-python-app/
 │── Dockerfile
 │── .dockerignore
 └── README.md
-
+```
 ## Output Screenshot
 
 ![Docker Output-1](screenshots/output1.png)
